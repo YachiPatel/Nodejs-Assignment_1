@@ -1,0 +1,16 @@
+{
+  "name": "q10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "main.js",
+    "myscript": "node main.js",
+    "script1": "node main.js",
+    "script2": "node main.js"
+
+  },
+  "author": "yachi",
+  "license": "ISC"
+}
